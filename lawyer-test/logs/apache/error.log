@@ -1,8 +1,0 @@
-AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook.local. Set the 'ServerName' directive globally to suppress this message
-[Mon Apr 22 14:08:46.214052 2024] [mpm_event:notice] [pid 66651:tid 8638755392] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
-[Mon Apr 22 14:08:46.214556 2024] [core:notice] [pid 66651:tid 8638755392] AH00094: Command line: '/Users/havoc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/havoc/Library/Application Support/Local/run/1Ilr_v1Mg/conf/apache/apache2.conf'
-[Mon Apr 22 14:10:00.355132 2024] [mpm_event:notice] [pid 66651:tid 8638755392] AH00491: caught SIGTERM, shutting down
-AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook.local. Set the 'ServerName' directive globally to suppress this message
-[Mon Apr 22 14:10:14.734506 2024] [mpm_event:notice] [pid 66766:tid 8642871872] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
-[Mon Apr 22 14:10:14.734970 2024] [core:notice] [pid 66766:tid 8642871872] AH00094: Command line: '/Users/havoc/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/havoc/Library/Application Support/Local/run/1Ilr_v1Mg/conf/apache/apache2.conf'
-[Mon Apr 22 14:11:57.617594 2024] [mpm_event:notice] [pid 66766:tid 8642871872] AH00491: caught SIGTERM, shutting down
